@@ -22,7 +22,7 @@ Generate unique and creative recipes based on the ingredients you have, using AI
 
 Install dependencies
 npm install
-# or
+or
 pnpm install
 
 License
@@ -30,4 +30,5 @@ This project is licensed under the MIT License.
 Feel free to fork, modify, and share! 💚
 
 Author: Sibtain Wali
-GitHubLink to Clone : 
+GitHubLink to Clone : https://github.com/SibWali/Nexium-Sibtain-AI-Recipe-Generator.git
+
